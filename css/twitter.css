@@ -1,0 +1,30 @@
+body{
+  padding-top: 60px;
+}
+
+.tw-search{
+  border-radius: 15px;
+}
+
+.navbar form button{
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-left: none;
+}
+
+.icon, .pic-btn{
+  margin-right: 5px;
+}
+
+.follow-btn{
+  margin-left: 30px;
+}
+
+.retws, .likes{
+  margin-right: 25px;
+}
+
+.list-icons li{
+  margin-top: 10px;
+  margin-right: 45px;
+}
